@@ -1,6 +1,6 @@
 {
-    "build": "20260914_test",
+    "build": "20260915_test",
     "download_url": "https://github.com/akeels/test/releases/latest/download/vZebra.exe",
     "force_update": false,
-    "release_notes": "Initial release"
+    "release_notes": "Test update"
 }
