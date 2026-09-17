@@ -1,7 +1,6 @@
 {
   "build": "20260915_xyz123",
-  "download_url": "https://github.com/.../vZebra_1.0.1.exe",
-  "sha256": "abcdef1234567890abcdef1234567890abcdef1234567890abcdef1234567890",
-  "force_update": false,
+  "download_url": "https://github.com/akeels/test/releases/latest/download/vZebra.exe",
+  "force_update": true,
   "release_notes": "Fixed crash on startup"
 }
