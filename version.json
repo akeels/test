@@ -2,5 +2,5 @@
   "build": "20260915_xyz123",
   "download_url": "https://github.com/akeels/test/releases/latest/download/vZebra.exe",
   "force_update": true,
-  "release_notes": "Fixed crash on startup"
+  "release_notes": "Critical security fix"
 }
